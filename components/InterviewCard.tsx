@@ -46,7 +46,6 @@ const InterviewCard = ({interviewId, userId, role, type, techstack, createdAt}: 
       </div>
 
         {/* Other content goes here */}
-        <p className="text-white px-4 py-2">InterviewCard</p>
     </div>
   )
 }
